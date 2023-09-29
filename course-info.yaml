@@ -1,0 +1,14 @@
+title: Prayoga Nugroho Pangestu Memulai Pemrograman dengan Kotlin
+language: English
+programming_language: Kotlin
+programming_language_version: 1.3
+content:
+- Membangun dan Menjalankan Program Kotlin
+- Kotlin Fundamental
+- Control Flow
+- Data Class dan Collections
+- Functional
+- Object-Oriented
+- Generics
+- Coroutines
+mode: Study
